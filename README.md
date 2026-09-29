@@ -231,4 +231,4 @@ pytest tests/
 
 ## License
 
-MIT
+MIT License
